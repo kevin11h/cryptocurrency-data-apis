@@ -13,3 +13,5 @@ https://agalea91/cryptocompare-api
 https://www.tokens24.com/cryptopedia/basics/5-best-cryptocurrency-apis-developers-2018
 
 https://www.programmableweb.com/category/cryptocurrency/api
+
+https://www.coindesk.com/data
