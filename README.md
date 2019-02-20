@@ -15,3 +15,7 @@ https://www.tokens24.com/cryptopedia/basics/5-best-cryptocurrency-apis-developer
 https://www.programmableweb.com/category/cryptocurrency/api
 
 https://www.coindesk.com/data
+
+https://www.programmableweb.com/api/cryptocoin-charts
+
+https://min-api.cryptocompare.com/
