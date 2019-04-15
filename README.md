@@ -1,5 +1,7 @@
 # cryptocurrency-data-apis
 
+https://github.com/topics/coindesk-api
+
 https://blog.rapidapi.com/bitcoin-blockchain-cryptocurrency-apis/
 
 https://coinmarketcap.com/api/
